@@ -12,7 +12,7 @@
 	
  body{
  
- 	background-color: #DCEDC8;
+ 	background-color: #9E9E9E;
  }
  
 	
@@ -37,8 +37,8 @@
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20px;
-	margin-left:33%;
-	margin-top:110px;
+	margin-left:35%;
+	margin-top:150px;
 }
 
 .div-error {
@@ -46,7 +46,7 @@
 	height:1px;
     border-radius: 5px;
     background-color: white;
-	margin-left:33%;
+	margin-left:35%;
 	padding: 20px;
 	margin-top:4px;
 }

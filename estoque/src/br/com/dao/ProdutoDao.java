@@ -1,9 +1,11 @@
 package br.com.dao;
+
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.List;
+
 import br.com.entity.Produto;
 
 public class ProdutoDao{
@@ -11,7 +13,6 @@ public class ProdutoDao{
 	private PreparedStatement ps;
 	private ResultSet rs;
 	private Connection conexao;
-	 
 	 
 	public void adiciona(Produto produto) throws Exception {
 		try {

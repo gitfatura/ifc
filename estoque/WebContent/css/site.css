@@ -1,6 +1,6 @@
 html,body{font-family:Verdana,sans-serif;font-size:12px;line-height:1.5}html{overflow-x:hidden}
 body {
-	background-color: #DCEDC8;
+	background-color: #9E9E9E;
  
 }
  
@@ -268,7 +268,7 @@ li.dropdown {
     background-color: #f2f2f2;
     padding: 20px;
 	margin-left:30%;
-	margin-top:30px;
+	margin-top:100px;
 }
 .div-interna-novo-produto {
 	width:400px;
@@ -426,8 +426,8 @@ li.dropdown {
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20px;
-	margin-left:24%;
-	margin-top:20px;
+	margin-left:33%;
+	margin-top:100px;
 }
 .div-interna-update-produto {
 	width:400px;
